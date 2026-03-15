@@ -1,24 +1,24 @@
-public class exercicio12 {
-    /******************************************************************************
-    Curso: Engenharia de Software
-    Disciplina: análise e projeto orientado a objeto 
-    Professor: Flores
-    Turma: ESOFT-3B
-    Componentes:
-        25061077-2 - Kauã Ricardo Gomes Fagundes
-        25145454-2 - Gustavo Silva Rodrigues 
-        25004001-3 - Rafael Diesel
-        25229846-2 - Wendel Souza Cardoso
-        25228676-2 - Marlon Willian Silva Barros
-        25054416-2 - Pedro Henrique Campos de Azevedo 
-        25165088-2 - Vinicius Bastos Rodrigues
-        25178065-2 - Marcos Barcelar
-        25001126-2 - Eric Ruthes
-    Data: 16 de março de 2026
-    Descritivo: Escreva um programa que use herança para criar uma classe Aluno que herda de Pessoa e adiciona um 
-    atributo matricula.
-    *******************************************************************************/
+/******************************************************************************
+Curso: Engenharia de Software
+Disciplina: análise e projeto orientado a objeto 
+Professor: Flores
+Turma: ESOFT-3B
+Componentes:
+    25061077-2 - Kauã Ricardo Gomes Fagundes
+    25145454-2 - Gustavo Silva Rodrigues 
+    25004001-3 - Rafael Diesel
+    25229846-2 - Wendel Souza Cardoso
+    25228676-2 - Marlon Willian Silva Barros
+    25054416-2 - Pedro Henrique Campos de Azevedo 
+    25165088-2 - Vinicius Bastos Rodrigues
+    25178065-2 - Marcos Barcelar
+    25001126-2 - Eric Ruthes
+Data: 16 de março de 2026
+Descritivo: Escreva um programa que use herança para criar uma classe Aluno que herda de Pessoa e adiciona um 
+atributo matricula.
+*******************************************************************************/
 
+public class exercicio12 {
     static class Pessoa {
         //atributos
         String nome;
